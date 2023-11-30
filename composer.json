@@ -1,0 +1,19 @@
+{
+    "name": "tugas1_ayyina",
+    "description": "Tugas 1 SI-MVC Pemrograman Berbasis Web Lanjutan 2023",
+    "type": "project",
+    "authors": [
+        {
+            "name": "ayyina",
+            "email": "ayyinanurhidayah@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "filp/whoops": "^2.14"
+    }
+}
